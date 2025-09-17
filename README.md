@@ -5,11 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=134BF2&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALEXSANDRO+MACEDO;TENHO+23+ANOS;SOU+DE+SÃO+PAULO,+SP;TRAINEE+DE+RPA+|+POWER+AUTOMATE+&+IA+ENTHUSIAST;SEJA+BEM-VINDO(A)!+:%29)](https://git.io/typing-svg)
 
 
+<br>
+<br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexxsandroM&show_icons=true&count_private=true&hide_border=true&title_color=134BF2&icon_color=0C87F2&text_color=E2E8F0&bg_color=0F172A&rank_icon=github" alt="Estatísticas do GitHub de Alexsandro Macedo" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxsandroM&layout=compact&hide_border=true&title_color=134BF2&text_color=E2E8F0&bg_color=0F172A&langs_count=8&card_width=320" />
-</div>
 
 [![Grafo de Atividade do GitHub de Ashutosh](https://github-readme-activity-graph.vercel.app/graph?username=AlexxsandroM&bg_color=0F172A&color=134BF2&line=0C87F2&point=1BA0F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
