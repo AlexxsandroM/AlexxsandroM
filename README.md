@@ -8,9 +8,6 @@
 <br>
 <br>
 
-
-[![Grafo de Atividade do GitHub de Ashutosh](https://github-readme-activity-graph.vercel.app/graph?username=AlexxsandroM&bg_color=0F172A&color=134BF2&line=0C87F2&point=1BA0F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=AlexxsandroM&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true" />
 </p>
